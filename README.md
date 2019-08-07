@@ -25,7 +25,7 @@ The four major forms of leukemia are:
 3. Chronic lymphocytic leukemia (CLL) and
 4. Chronic myelogenous leukemia (CML)
 
-1.2 PURPOSE
+# PURPOSE
 The purpose of our project is to develop a system that can automatically detect cancer
 from the blood cell images. This system uses a convolution network that inputs a blood
 cell images and outputs whether the cell is infected with cancer or not. The appearance
@@ -35,3 +35,5 @@ variability among medical personnel in the diagnosis of cancer. Automated detect
 of cancer from blood cell images at the level of expert medical personnel would not
 only have tremendous benefit in clinical settings, it would also be invaluable in delivery
 of health care to populations with inadequate access to diagnostic imaging specialists.
+
+# visit itsaihub.com for more 
