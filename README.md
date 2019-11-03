@@ -36,4 +36,4 @@ of cancer from blood cell images at the level of expert medical personnel would 
 only have tremendous benefit in clinical settings, it would also be invaluable in delivery
 of health care to populations with inadequate access to diagnostic imaging specialists.
 
-# visit itsaihub.com for more 
+# visit aihubprojects.com for more 
