@@ -10,6 +10,9 @@ is 1000:1. It means that between 1000 red blood cells there is 1 white blood cel
 There are two types of white blood cells that get turn into leukemia and they are:
 1. Lymphoid cells
 2. Myeloid cells
+
+![](https://aihubprojects.com/wp-content/uploads/2019/10/image-19.png)
+
 Leukemia that caused due to lymphoid cells is called lymphocytic or lymphoblastic
 leukemia and if it is caused due to myeloid cells then it is known as myelogenous
 or myeloid leukemia. Leukemia is grouped in two ways: acute or chronic, grouped
@@ -36,4 +39,4 @@ of cancer from blood cell images at the level of expert medical personnel would 
 only have tremendous benefit in clinical settings, it would also be invaluable in delivery
 of health care to populations with inadequate access to diagnostic imaging specialists.
 
-# visit aihubprojects.com for more 
+# visit [aihubprojects.com](https://aihubprojects.com/blood-cancer-detection-using-cnn-ai-projects/) for more 
